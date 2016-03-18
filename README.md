@@ -11,4 +11,5 @@ piftf 3.5 inch
 64gb micro sd card
 Rasp pi 2
 
-Requirements, see the text file.
+Requirements, see the text file. Install with 
+pip install -r requirements.txt

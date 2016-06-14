@@ -13,3 +13,10 @@ Rasp pi 2
 
 Requirements, see the text file. Install with 
 pip install -r requirements.txt
+
+
+*****************************************************************************************************************************************
+It wont work right now, currently creating a doccument on how to edit the Kali Linux and Pi settings correctly for it to run. Until then, stay tuned. 
+*****************************************************************************************************************************************
+
+*I might have the imaged reduced in size, and hot it for a download, probably a lot easier. 
